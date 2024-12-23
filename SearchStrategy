@@ -1,0 +1,11 @@
+PubMed: 
+("Estrogens"[MeSH] OR Estrogen) AND (MS OR “multiple sclerosis”) AND ("Hormone Replacement Therapy"[MeSH] OR “Estrogen Replacement Therapy"[MeSH] OR Prevention)
+
+Embase: 
+('estrogens'/exp OR 'estrogens' OR 'estrogen'/exp OR 'estrogen') AND ('multiple sclerosis' OR 'ms') AND ('hormone therapy'/exp OR 'hormone therapy' OR 'prevention'/exp OR 'prevention') AND [2015-2025]/py
+
+Cochrane Library: 
+(Estrogens OR Estrogen) AND (MS OR “multiple sclerosis”) AND ("Hormone Therapy" OR Prevention)
+
+Web of Science: 
+TS=(Estrogens OR Estrogen) AND TS=(MS OR “multiple sclerosis”) AND TS=("Hormone Therapy" OR Prevention)
