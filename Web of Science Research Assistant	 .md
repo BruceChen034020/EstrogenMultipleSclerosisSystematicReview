@@ -1,4 +1,4 @@
-Web of Science Research Assistant
+*Web of Science Research Assistant*
 
 How does estrogen modulate immune function, and what is its role in preventing multiple sclerosis in at-risk populations?
 
