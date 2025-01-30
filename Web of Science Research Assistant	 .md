@@ -1,6 +1,6 @@
 *Web of Science Research Assistant*
 
-How does estrogen modulate immune function, and what is its role in preventing multiple sclerosis in at-risk populations?
+*How does estrogen modulate immune function, and what is its role in preventing multiple sclerosis in at-risk populations?*
 
 **Overview**
 The main themes identified in the provided abstracts are "neuroprotective effects of estrogen", "immunomodulatory roles of estrogen", and "impact of hormonal changes on multiple sclerosis". These themes highlight how estrogen influences immune function and its potential role in preventing multiple sclerosis in at-risk populations.
@@ -32,7 +32,7 @@ APR 2011 | EUROPEAN JOURNAL OF IMMUNOLOGY
 Christianson, MS;Mensah, VA and Shen, W
 FEB 2015 | MATURITAS
 
-I want to know about seminal papers on Estrogen and immune function
+*I want to know about seminal papers on Estrogen and immune function*
 
 **Overview:**
 The research highlights the roles of "estrogen-related receptors (ERRs)", "biomarkers in breast cancer", and "metabolic regulation". ERRs are implicated in various physiological processes and diseases, particularly in breast cancer and energy metabolism, suggesting their potential as therapeutic targets and biomarkers for clinical outcomes in women's health [1][2][3][4][5][6][7][8].
@@ -83,7 +83,7 @@ AUG 2018 | INSECT MOLECULAR BIOLOGY
 Fujimoto, J;Nakagawa, Y;(...); and Tamaya, T
 FEB 2005 | JOURNAL OF STEROID BIOCHEMISTRY AND MOLECULAR BIOLOGY
 
-What are the key findings of seminal papers on estrogen's role in immune function?
+*What are the key findings of seminal papers on estrogen's role in immune function?*
 
 **Overview:**
 The research highlights the roles of "estrogen-related receptors (ERRs)", "biomarkers in breast cancer", and "metabolic regulation". ERRs are implicated in various physiological processes and diseases, particularly in women's health and cancer, while also influencing metabolic pathways and developmental processes.
@@ -134,7 +134,7 @@ AUG 2018 | INSECT MOLECULAR BIOLOGY
 Fujimoto, J;Nakagawa, Y;(...); and Tamaya, T
 FEB 2005 | JOURNAL OF STEROID BIOCHEMISTRY AND MOLECULAR BIOLOGY
 
-What are the primary effects of estrogen on immune cell activity?
+*What are the primary effects of estrogen on immune cell activity?*
 
 **Overview**
 The primary effects of estrogen on immune cell activity involve its modulation of immune responses, the influence of estrogen receptors on immune cell populations, and the implications for autoimmune diseases and cancer. These themes highlight how estrogen can enhance certain immune functions while suppressing others, leading to a complex interplay in immune regulation.
@@ -185,7 +185,7 @@ Somasundaram, A;Rothenberger, NJ and Stabile, LP
 Polari, L;Wiklund, A;(...); and Määttä, J
 AUG 2018 | INFLAMMATION
 
-I want to know about seminal papers on Estrogen and immune cell activity
+*I want to know about seminal papers on Estrogen and immune cell activity*
 
 **Overview:**
 The research literature highlights significant findings regarding "estrogen receptor subtypes", "ligand binding characteristics", and "transcriptional regulation mechanisms", which are crucial for understanding the role of estrogen receptors in various biological contexts.
@@ -236,7 +236,7 @@ SEP 5 1997 | SCIENCE
 Perou, CM;Sorlie, T;(...); and Botstein, D
 AUG 17 2000 | NATURE
 
-What are the key findings of seminal papers on estrogen's effects on immune cells?
+*What are the key findings of seminal papers on estrogen's effects on immune cells?*
 
 **Overview:**
 The research literature highlights significant findings regarding "estrogen receptor subtypes", "ligand binding characteristics", and "transcriptional regulation mechanisms". These themes underscore the complexity of estrogen signaling and its implications in various biological contexts, particularly in relation to cancer biology and receptor functionality.
@@ -287,7 +287,7 @@ SEP 5 1997 | SCIENCE
 Perou, CM;Sorlie, T;(...); and Botstein, D
 AUG 17 2000 | NATURE
 
-I want to know about seminal papers on Estrogen effects on immune cells
+*I want to know about seminal papers on Estrogen effects on immune cells*
 
 **Overview:**
 The research focuses on the characterization and functional analysis of "estrogen receptors", "ligand binding specificity", and "transcriptional regulation". These themes highlight the complexity of estrogen receptor subtypes and their roles in various biological processes.
@@ -338,7 +338,7 @@ SEP 5 1997 | SCIENCE
 Perou, CM;Sorlie, T;(...); and Botstein, D
 AUG 17 2000 | NATURE
 
-How does estrogen influence immune cell function and differentiation?
+*How does estrogen influence immune cell function and differentiation?*
 
 **Overview**
 The influence of estrogen on immune cell function and differentiation encompasses several key themes, including "estrogen receptor expression in immune cells", "effects on immune cell populations", and "impact on immune responses and diseases". These themes highlight how estrogens modulate immune responses through receptor interactions, alter the composition of immune cell populations, and play a role in various immune-related conditions.
