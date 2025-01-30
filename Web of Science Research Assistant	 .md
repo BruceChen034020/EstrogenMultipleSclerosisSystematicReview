@@ -389,7 +389,7 @@ AUG 2001 | CROATIAN MEDICAL JOURNAL
 Seemann, F;Knigge, T;(...); and Monsinjon, T
 JUN 2016 | JOURNAL OF APPLIED TOXICOLOGY
 
-I want to know about seminal papers on Estrogen and immune cell function
+*I want to know about seminal papers on Estrogen and immune cell function*
 
 **Overview:**
 The research focuses on the characterization and functional analysis of "estrogen receptors", "ligand binding specificity", and "transcriptional regulation". These themes highlight the complexity of estrogen receptor subtypes and their roles in various biological processes.
@@ -440,7 +440,7 @@ SEP 5 1997 | SCIENCE
 Perou, CM;Sorlie, T;(...); and Botstein, D
 AUG 17 2000 | NATURE
 
-What are the key findings of seminal papers on estrogen's role in immune cell function?
+*What are the key findings of seminal papers on estrogen's role in immune cell function?*
 
 **Overview:**
 The research highlights the roles of "estrogen-related receptors (ERRs)", "biomarkers in breast cancer", and "metabolic regulation". ERRs are implicated in various physiological processes and diseases, particularly in women's health and cancer, while also influencing metabolic pathways critical for energy homeostasis.
@@ -491,7 +491,7 @@ AUG 2018 | INSECT MOLECULAR BIOLOGY
 Fujimoto, J;Nakagawa, Y;(...); and Tamaya, T
 FEB 2005 | JOURNAL OF STEROID BIOCHEMISTRY AND MOLECULAR BIOLOGY
 
-I want to know about seminal papers on Estrogen's role in immune cell function
+*I want to know about seminal papers on Estrogen's role in immune cell function*
 
 **Overview:**
 The research highlights the roles of "estrogen-related receptors (ERRs)", "biomarkers in breast cancer", and "metabolic regulation". ERRs are implicated in various physiological processes and diseases, particularly in breast cancer, where they may serve as biomarkers and therapeutic targets. Additionally, ERRs are crucial in regulating metabolic pathways, influencing energy homeostasis and development.
@@ -542,7 +542,7 @@ AUG 2018 | INSECT MOLECULAR BIOLOGY
 Fujimoto, J;Nakagawa, Y;(...); and Tamaya, T
 FEB 2005 | JOURNAL OF STEROID BIOCHEMISTRY AND MOLECULAR BIOLOGY
 
-How does estrogen influence the activity of specific immune cell types?
+*How does estrogen influence the activity of specific immune cell types?*
 
 **Overview**
 The influence of estrogen on immune cell activity encompasses several key themes, including its role in "dendritic cell differentiation", "B cell function", and "immune modulation in cancer". These themes highlight how estrogen affects various immune cell types and their functions, contributing to both innate and adaptive immune responses.
@@ -593,7 +593,7 @@ JUL 2011 | CURRENT TOPICS IN MEDICINAL CHEMISTRY
 Polari, L;Wiklund, A;(...); and Määttä, J
 AUG 2018 | INFLAMMATION
 
-I want to know about seminal papers on Estrogen and Immune Cells
+*I want to know about seminal papers on Estrogen and Immune Cells*
 
 **Overview:**
 The research literature highlights significant findings regarding "estrogen receptor subtypes", "ligand binding characteristics", and "transcriptional regulation mechanisms". These themes underscore the complexity of estrogen signaling and its implications in various biological contexts, particularly in relation to cancer biology and receptor functionality.
@@ -644,7 +644,7 @@ SEP 5 1997 | SCIENCE
 Perou, CM;Sorlie, T;(...); and Botstein, D
 AUG 17 2000 | NATURE
 
-How does estrogen influence immune cell differentiation and function?
+*How does estrogen influence immune cell differentiation and function?*
 
 **Overview**
 Estrogen significantly influences immune cell differentiation and function, particularly through its interaction with estrogen receptors, which modulate various immune responses. The main themes identified are "estrogen receptor signaling", "differentiation of immune cells", and "impact on autoimmune responses and cancer".
@@ -695,7 +695,7 @@ Somasundaram, A;Rothenberger, NJ and Stabile, LP
 Komi, J and Lassila, O
 MAY 1 2000 | BLOOD
 
-I want to know about seminal papers on Estrogen and immune cell differentiation
+*I want to know about seminal papers on Estrogen and immune cell differentiation*
 
 **Overview:**
 The research highlights the roles of "estrogen-related receptors (ERRs)", "biomarkers in breast cancer", and "metabolic regulation". ERRs are implicated in various physiological processes and diseases, particularly in breast cancer and energy metabolism, suggesting their potential as therapeutic targets and biomarkers for clinical outcomes in women's health [1][2][3][4][5][6][7][8].
@@ -746,7 +746,7 @@ AUG 2018 | INSECT MOLECULAR BIOLOGY
 Fujimoto, J;Nakagawa, Y;(...); and Tamaya, T
 FEB 2005 | JOURNAL OF STEROID BIOCHEMISTRY AND MOLECULAR BIOLOGY
 
-What are the key findings of seminal papers on estrogen's role in immune cell differentiation?
+*What are the key findings of seminal papers on estrogen's role in immune cell differentiation?*
 
 **Overview:**
 The research highlights the roles of "estrogen-related receptors (ERRs)", "biomarkers in breast cancer", and "metabolic regulation". ERRs are implicated in various physiological processes and diseases, particularly in breast cancer, where they may serve as biomarkers for clinical outcomes. Additionally, ERRs are crucial in regulating metabolic pathways, influencing energy homeostasis and developmental processes.
@@ -797,7 +797,7 @@ AUG 2018 | INSECT MOLECULAR BIOLOGY
 Fujimoto, J;Nakagawa, Y;(...); and Tamaya, T
 FEB 2005 | JOURNAL OF STEROID BIOCHEMISTRY AND MOLECULAR BIOLOGY
 
-I want to know about seminal papers on Estrogen's role in immune cell differentiation
+*I want to know about seminal papers on Estrogen's role in immune cell differentiation*
 
 **Overview:**
 The research highlights the roles of "estrogen-related receptors (ERRs)", "biomarkers in breast cancer", and "metabolic regulation". ERRs are implicated in various physiological processes, particularly in women's health and cancer, while also influencing metabolic pathways and developmental processes.
@@ -848,7 +848,7 @@ AUG 2018 | INSECT MOLECULAR BIOLOGY
 Fujimoto, J;Nakagawa, Y;(...); and Tamaya, T
 FEB 2005 | JOURNAL OF STEROID BIOCHEMISTRY AND MOLECULAR BIOLOGY
 
-What are the key findings of seminal papers on estrogen and immune cell differentiation?
+*What are the key findings of seminal papers on estrogen and immune cell differentiation?*
 
 **Overview:**
 The research highlights the roles of "estrogen-related receptors (ERRs)", "biomarkers in breast cancer", and "metabolic regulation". ERRs are implicated in various physiological processes and diseases, particularly in women's health and cancer, while also influencing metabolic pathways and developmental processes.
@@ -899,7 +899,7 @@ AUG 2018 | INSECT MOLECULAR BIOLOGY
 Fujimoto, J;Nakagawa, Y;(...); and Tamaya, T
 FEB 2005 | JOURNAL OF STEROID BIOCHEMISTRY AND MOLECULAR BIOLOGY
 
-What role does estrogen play in immune cell differentiation?
+*What role does estrogen play in immune cell differentiation?*
 
 **Overview**
 The role of estrogen in immune cell differentiation encompasses several key themes, including its influence on "hematopoietic stem cells (HSCs)", "B and T lymphocyte differentiation", and "estrogen receptor signaling". These themes highlight how estrogen modulates immune responses and cell development, contributing to sex differences in immunity.
@@ -950,7 +950,7 @@ SEP 2010 | BONE
 Kovats, S
 APR 2015 | CELLULAR IMMUNOLOGY
 
-How does estrogen influence the differentiation of T cells in the immune system?
+*How does estrogen influence the differentiation of T cells in the immune system?*
 
 **Overview**
 The influence of estrogen on T cell differentiation in the immune system is characterized by its role in "enhancing T cell responses", "impacting thymic development", and "modulating immune functions". These themes highlight how estrogen, particularly through its receptor ERα, affects T cell activation and differentiation, influences thymic cellularity, and alters immune responses.
@@ -1001,7 +1001,7 @@ FEB 2011 | CLINICAL REVIEWS IN ALLERGY & IMMUNOLOGY
 Nadkarni, S and McArthur, S
 AUG 2013 | CURRENT OPINION IN PHARMACOLOGY
 
-I want to know about seminal papers on Estrogen and T cell differentiation
+*I want to know about seminal papers on Estrogen and T cell differentiation*
 
 **Overview:**
 The research focuses on the characterization and functional analysis of "estrogen receptors", "ligand binding specificity", and "transcriptional regulation". These themes highlight the diversity of estrogen receptors, their binding affinities, and their roles in gene regulation across different tissues.
@@ -1052,7 +1052,7 @@ SEP 5 1997 | SCIENCE
 Perou, CM;Sorlie, T;(...); and Botstein, D
 AUG 17 2000 | NATURE
 
-What are the key findings of seminal papers on estrogen's role in T cell differentiation?
+*What are the key findings of seminal papers on estrogen's role in T cell differentiation?*
 
 **Overview:**
 The research on estrogen receptors (ERs) has revealed significant insights into their structure, function, and role in various tissues, highlighting the existence of different subtypes and their unique properties. The main themes identified are "estrogen receptor subtypes", "ligand binding and specificity", and "transcriptional regulation".
@@ -1103,7 +1103,7 @@ SEP 5 1997 | SCIENCE
 Perou, CM;Sorlie, T;(...); and Botstein, D
 AUG 17 2000 | NATURE
 
-I want to know about seminal papers on Estrogen's role in T cell differentiation
+*I want to know about seminal papers on Estrogen's role in T cell differentiation*
 
 **Overview:**
 The research literature highlights significant findings regarding "estrogen receptor subtypes", "ligand binding specificity", and "transcriptional regulation mechanisms", which are crucial for understanding the role of estrogen receptors in various biological contexts.
@@ -1154,7 +1154,7 @@ SEP 5 1997 | SCIENCE
 Perou, CM;Sorlie, T;(...); and Botstein, D
 AUG 17 2000 | NATURE
 
-What are the key findings of seminal papers on estrogen and T cell differentiation?
+*What are the key findings of seminal papers on estrogen and T cell differentiation?*
 
 **Overview:**
 The research literature highlights significant findings regarding "estrogen receptor subtypes", "ligand binding characteristics", and "transcriptional regulation mechanisms". These themes underscore the complexity of estrogen signaling and its implications in various biological contexts, particularly in relation to cancer biology and receptor functionality.
@@ -1205,7 +1205,7 @@ SEP 5 1997 | SCIENCE
 Perou, CM;Sorlie, T;(...); and Botstein, D
 AUG 17 2000 | NATURE
 
-What role does estrogen play in T cell differentiation?
+*What role does estrogen play in T cell differentiation?*
 
 **Overview**
 The role of estrogen in T cell differentiation is characterized by its influence on "T cell activation and differentiation", "regulation of T helper cell subsets", and "impact on immune responses". Estrogen, particularly through its receptor ER alpha, enhances specific T cell responses while also modulating the development of various T cell subsets, which can have implications for autoimmune conditions and overall immune function.
@@ -1256,7 +1256,7 @@ FEB 10 2017 | FRONTIERS IN IMMUNOLOGY
 Perisic, M;Stojic-Vukanic, Z;(...); and Leposavic, G
 MAR 2013 | IMMUNOBIOLOGY
 
-How does estrogen influence T cell differentiation in the immune system?
+*How does estrogen influence T cell differentiation in the immune system?*
 
 **Overview**
 The influence of estrogen on T cell differentiation in the immune system is characterized by its role in regulating T cell subsets, particularly through estrogen receptor alpha (ER alpha), and its impact on metabolic pathways. The main themes identified are ["regulation of T cell subsets", "metabolic pathways in T cell differentiation", and "impact on autoimmune responses"].
@@ -1307,7 +1307,7 @@ SILVERSTONE, AE;FRAZIER, DE and GASIEWICZ, TA
 Horowitz, MC;Fretz, JA and Lorenzo, JA
 SEP 2010 | BONE
 
-I want to know about seminal papers on Estrogen influence on T cell differentiation
+*I want to know about seminal papers on Estrogen influence on T cell differentiation*
 
 **Overview:**
 The research literature highlights significant findings regarding "estrogen receptor subtypes", "ligand binding characteristics", and "transcriptional regulation mechanisms". These themes underscore the complexity of estrogen signaling and its implications in various biological contexts, particularly in relation to cancer biology and receptor functionality.
@@ -1358,7 +1358,7 @@ SEP 5 1997 | SCIENCE
 Perou, CM;Sorlie, T;(...); and Botstein, D
 AUG 17 2000 | NATURE
 
-How does estrogen affect the immune response in T cells?
+*How does estrogen affect the immune response in T cells?*
 
 **Overview**
 The effects of estrogen on the immune response in T cells are characterized by its influence on "cytokine regulation", "T cell activation and differentiation", and "thymic atrophy". These themes highlight how estrogen modulates immune functions, particularly in T cells, and the implications for gender differences in immune responses.
@@ -1406,7 +1406,7 @@ KOTANI, M;FUJII, H;(...); and HARADA, S
 Rogers, JA;Metz, L and Yong, VW
 APR 2013 | MOLECULAR IMMUNOLOGY
 
-I want to know about seminal papers on Estrogen and immune response
+*I want to know about seminal papers on Estrogen and immune response*
 
 **Overview:**
 The research highlights the roles of "estrogen-related receptors (ERRs)", "biomarkers in breast cancer", and "metabolic regulation". ERRs are implicated in various physiological processes and diseases, particularly in women's health and cancer, while also influencing metabolic pathways and developmental processes.
@@ -1457,7 +1457,7 @@ AUG 2018 | INSECT MOLECULAR BIOLOGY
 Fujimoto, J;Nakagawa, Y;(...); and Tamaya, T
 FEB 2005 | JOURNAL OF STEROID BIOCHEMISTRY AND MOLECULAR BIOLOGY
 
-What are the key findings of seminal papers on estrogen's role in immune response?
+*What are the key findings of seminal papers on estrogen's role in immune response?*
 
 **Overview:**
 The research highlights the roles of "estrogen-related receptors (ERRs)", "biomarkers in breast cancer", and "metabolic regulation". ERRs are implicated in various physiological processes and diseases, particularly in women's health and cancer, while also influencing metabolic pathways and developmental processes.
@@ -1508,7 +1508,7 @@ AUG 2018 | INSECT MOLECULAR BIOLOGY
 Fujimoto, J;Nakagawa, Y;(...); and Tamaya, T
 FEB 2005 | JOURNAL OF STEROID BIOCHEMISTRY AND MOLECULAR BIOLOGY
 
-I want to know about seminal papers on Estrogen's role in immune response
+*I want to know about seminal papers on Estrogen's role in immune response*
 
 **Overview:**
 The research highlights the roles of "estrogen-related receptors (ERRs)", "biomarkers in breast cancer", and "metabolic regulation". ERRs are implicated in various physiological processes and diseases, particularly in women's health and cancer, while also influencing metabolic pathways and developmental processes.
@@ -1559,7 +1559,7 @@ AUG 2018 | INSECT MOLECULAR BIOLOGY
 Fujimoto, J;Nakagawa, Y;(...); and Tamaya, T
 FEB 2005 | JOURNAL OF STEROID BIOCHEMISTRY AND MOLECULAR BIOLOGY
 
-How does estrogen influence immune cell function according to recent research?
+*How does estrogen influence immune cell function according to recent research?*
 
 **Overview:**
 The provided abstracts highlight significant themes related to "immune system modulation", "hormonal influences on immunity", and "impact of environmental factors on immune responses". These themes illustrate the complex interplay between hormones, immune function, and external factors affecting health outcomes.
@@ -1610,7 +1610,7 @@ OCT 18 2024 | SCIENTIFIC REPORTS
 Liu, JC;Zeng, QX;(...); and Chiu, PCN
 OCT 7 2024 | FRONTIERS IN IMMUNOLOGY
 
-I want to know about seminal papers on Estrogen and Immune Cell Function
+*I want to know about seminal papers on Estrogen and Immune Cell Function*
 
 **Overview:**
 The research literature highlights significant findings regarding "estrogen receptor subtypes", "ligand binding characteristics", and "transcriptional regulation mechanisms". These themes underscore the complexity of estrogen signaling and its implications in various biological contexts, particularly in relation to cancer biology and receptor functionality.
@@ -1661,7 +1661,7 @@ SEP 5 1997 | SCIENCE
 Perou, CM;Sorlie, T;(...); and Botstein, D
 AUG 17 2000 | NATURE
 
-How does estrogen influence the differentiation of immune cell types?
+*How does estrogen influence the differentiation of immune cell types?*
 
 **Overview**
 The influence of estrogen on immune cell differentiation is characterized by its effects on "dendritic cell (DC) differentiation", "T cell responses", and "immune modulation in cancer". Estrogen, particularly through its receptor ER alpha, plays a crucial role in shaping the immune response by affecting various immune cell types and their functions, which can have implications for autoimmunity and cancer.
@@ -1712,7 +1712,7 @@ NOV 8 2022 | SCIENTIFIC REPORTS
 Somasundaram, A;Rothenberger, NJ and Stabile, LP
 2020 | ADVANCES IN EXPERIMENTAL MEDICINE AND BIOLOGY
 
-What mechanisms does estrogen use to affect immune cell differentiation?
+*What mechanisms does estrogen use to affect immune cell differentiation?*
 
 **Overview**
 The mechanisms by which estrogen affects immune cell differentiation involve several key themes, including "estrogen receptor signaling", "differential effects on immune cell types", and "hormonal interactions". These themes highlight the complex roles of estrogen in modulating immune responses and cell differentiation through various pathways and interactions with other hormones.
